@@ -1,0 +1,15 @@
+{
+  "name": "tarea2_majo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tarea2.js",
+  "dependencies": {
+    "html-pdf": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
